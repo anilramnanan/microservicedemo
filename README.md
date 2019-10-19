@@ -8,7 +8,7 @@ Frontend it built using PHP and Slim 3
 
 ## Get started
 
-Each microservice runs as a sepeare service on its own port. To run the service:
+Each microservice runs as a separate service on its own port. To run the service:
 
 ```bash
 python3 people.py
